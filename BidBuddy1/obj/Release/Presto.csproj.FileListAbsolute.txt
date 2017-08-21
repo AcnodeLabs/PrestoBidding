@@ -1,0 +1,9 @@
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\bin\Release\BidBuddy1.exe.config
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\BidBuddy1.exe
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\BidBuddy1.pdb
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\bin\Release\BidBuddy1.exe
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\bin\Release\BidBuddy1.pdb
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\Presto.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\BidBuddy1.Form1.resources
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\BidBuddy1.Properties.Resources.resources
+C:\Users\Bilal\documents\visual studio 2012\Projects\BidBuddy1\BidBuddy1\obj\Release\Presto.csproj.GenerateResource.Cache
